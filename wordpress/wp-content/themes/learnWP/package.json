@@ -1,0 +1,13 @@
+{
+  "name": "learnwp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx tailwindcss -i src/input.css -o assets/css/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.18"
+  }
+}
+
+
